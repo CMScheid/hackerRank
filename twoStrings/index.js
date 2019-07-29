@@ -13,7 +13,7 @@ function twoStrings(s1, s2) {
 twoStrings("yellow", "fun");
 twoStrings("car", "crash");
 twoStrings("abd", "3215");
-twoStrings("start", "end");
+twoStrings("start", "start");
 twoStrings("hello", "world")
 twoStrings("hi", "world");
 twoStrings("okokok", "auauau")
