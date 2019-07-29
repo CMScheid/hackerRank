@@ -10,10 +10,10 @@ function twoStrings(s1, s2) {
   return console.log("NO")
 };
 
-twoStrings("amarelo", "fun");
-twoStrings("cara", "luiz");
+twoStrings("yellow", "fun");
+twoStrings("car", "crash");
 twoStrings("abd", "3215");
-twoStrings("scheid", "montibeller");
+twoStrings("start", "end");
 twoStrings("hello", "world")
 twoStrings("hi", "world");
-twoStrings("pacaba", "lololo")
+twoStrings("okokok", "auauau")
